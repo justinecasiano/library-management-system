@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.referencedLibraries": [
+        "lib\\flatlaf-3.4.1.jar",
+        "lib\\flatlaf-intellij-themes-3.4.1.jar",
+        "lib\\mysql-connector-java-8.0.30.jar"
+    ],
+    "java.project.outputPath": "bin"
+}

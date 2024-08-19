@@ -1,0 +1,23 @@
+TODO:
+
+- add try catch on creation of database, if cannot initialize, 
+run the program and save state in memory
+- identify what copyright is in books 
+- ask what's the default status for books
+- ask where the student/teacher could enter their other details
+like id, yearLevel, section and department
+- ask if book returning form allows user to enter due date
+and why not get the due date from borrowing
+- create test for returning books
+- create validation for returning books
+- add logic for setting status of book and removing from the list
+- add logic for penalty 
+- do data validation inside the constructor and 
+throw illegalargumentexception on constructor instead of doing outside validation
+- convert all arrays into list
+- create library model that handles returning, borrowing, penalty and has 
+a book list and borrower list
+- create controllers for each view, each view should have corresponding controller
+- make use of library model for returning and borrowing
+- remove ok button in joption when viewing details 
+- use swingworker ??
